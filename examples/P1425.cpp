@@ -1,3 +1,5 @@
+// Accepted
+
 #include <iostream>
 
 class timepoint
