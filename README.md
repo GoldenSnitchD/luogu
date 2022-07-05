@@ -1,2 +1,2 @@
 # luogu
-My answers to questions on https://www.luogu.com.cn/training/list.
+My answers to questions on [洛谷](https://www.luogu.com.cn/training/list).
